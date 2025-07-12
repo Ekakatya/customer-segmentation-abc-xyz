@@ -1,4 +1,6 @@
 
+![Uploading Slide 4_3 - 1.png…]()
+
 # ABC+XYZ Analysis for FMCG Client Segmentation
 
 This project provides an extended ABC+XYZ analysis aimed at segmenting clients of an FMCG company based on their purchasing behavior. The segmentation is performed using two key sales metrics: **Net Sales Value (NSV)** and **Volume (in tons)**. This dual-metric approach offers deeper insights into client importance and demand predictability, enabling the development of flexible, region-specific business strategies.
