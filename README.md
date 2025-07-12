@@ -1,5 +1,4 @@
-
-![Uploading Slide 4_3 - 1.png…]()
+![Matrix](Title photo.png)
 
 # ABC+XYZ Analysis for FMCG Client Segmentation
 
